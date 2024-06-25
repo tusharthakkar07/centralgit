@@ -8,6 +8,19 @@ i would keep posted further updates !!
 I've created a new brach which has this file by default - as whenever we create any new branch from master branch or any branch new branch would get all last code..
 
 so all below text I'm creating for branch1 - and I would merge it with master\main branch, lets see how it works !!
-
 --------------------------------------------------------------------------
+Yes, I was sucessfully able to merge the code\DATA from branch1 to main branch.. and it worked..
+also able to sucessfully push all latest code to git hub...
+there are still few more steps\commnds i would need to test and for that i may need to watch the videos again..
+---- here is the summary what we have done so far----
+
+- installed the git on linux machine.. sudo yum install git
+- created  the repo on git hub.
+- created the dir with same name on linux machine and executed git init commnad.
+- configre the remote repo with local git - git remote add origin (exact Git repo URL)
+- clone the remote repo with local git
+- created file locally and added it to staging area and commited it and push it to git hub for testing.
+- modeifiled the file and perfom the same steps again and it worked and can see modifed content on remote repo
+- created branch - modifiled the code - mearge it with main branch and push it to git hub - it worked as well..
+-----------------------------------------------------------------------------------
  
