@@ -23,4 +23,9 @@ there are still few more steps\commnds i would need to test and for that i may n
 - modeifiled the file and perfom the same steps again and it worked and can see modifed content on remote repo
 - created branch - modifiled the code - mearge it with main branch and push it to git hub - it worked as well..
 -----------------------------------------------------------------------------------
- 
+===Hello All : I'm adding changes from sigapore git====
+so I've created new ec2 instaance- installed the git
+then created the dir with same name through which repo is created 
+pull the code from git hub which given an access to this file !!
+now i can keep modifying the content from anohter host and will push the code to git hub which u can see from mumbai host
+==END from Singapore=== 
